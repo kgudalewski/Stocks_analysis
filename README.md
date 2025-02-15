@@ -13,3 +13,4 @@ yfinance for stock data retrieval
 selenium for data scrapping
 Pandas for data handling
 Matplotlib for visualization
+sklearn for modeling and statistics
